@@ -1,6 +1,6 @@
 <?php
 
-    echo "LOGIN";
+    echo "LOGIN TEST";
     
     echo "<pre>";
     print_r($_COOKIE);

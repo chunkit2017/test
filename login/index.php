@@ -27,11 +27,11 @@ function m1
 
 function m2
 {
-    echo "eco world";  
+    echo "eco world 988";  
 }
 
 
 function m3
 {
-	
+     echo "eco sky"; 	
 }

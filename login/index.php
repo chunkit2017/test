@@ -27,7 +27,7 @@ function m1
 
 function m2
 {
-    echo "eco world";  
+    echo "eco world eco sky 0009";  
 }
 
 

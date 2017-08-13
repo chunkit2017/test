@@ -22,12 +22,12 @@ Name:
 
 function m1
 {
-	   echo "hello world";
+    echo "hello world";
 }
 
 function m2
 {
-	
+    echo "eco world";  
 }
 
 

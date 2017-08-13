@@ -1,7 +1,6 @@
 Name:
 <input type="text" id="txtName" />
 <br />
-<br />
 <input id="btnWrite" type="button" value="Write Cookie" onclick="WriteCookie()" />
 <input id="btnRead" type="button" value="Read Cookie" onclick="ReadCookie()" />
 <input id="btnDelete" type="button" value="Remove Cookie" onclick="RemoveCookie()" />
@@ -23,7 +22,7 @@ Name:
 
 function m1
 {
-	
+	   echo "hello world";
 }
 
 function m2

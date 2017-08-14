@@ -1,6 +1,6 @@
 <?php
 
-    echo "LOGIN TEST";
+    echo "LOGIN TEST REBASE";
     
     echo "<pre>";
     print_r($_COOKIE);

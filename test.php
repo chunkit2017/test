@@ -2,7 +2,7 @@
 
     echo "LOGIN TEST REBASE";
     
-    echo "REBASE 3";
+    echo "REBASE 123";
     
     echo "<pre>";
     print_r($_COOKIE);

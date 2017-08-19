@@ -2,7 +2,7 @@
 
     echo "LOGIN TEST REBASE";
     
-    echo "FInal REBASE";
+    echo "Netbean Test";
     
     echo "<pre>";
     print_r($_COOKIE);

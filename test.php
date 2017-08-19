@@ -1,8 +1,8 @@
 <?php
 
-    echo "LOGIN TEST REBASE";
+    echo "LOGIN TEST <br/>";
     
-    echo "Netbean Test";
+    echo "Netbean Feature Test 1 <br/>";
     
     echo "<pre>";
     print_r($_COOKIE);

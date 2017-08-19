@@ -2,7 +2,7 @@
 
     echo "LOGIN TEST <br/>";
     
-    echo "Netbean Feature Test 1 <br/>";
+    echo "Netbean Test 2 commit";
     
     echo "<pre>";
     print_r($_COOKIE);

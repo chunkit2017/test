@@ -1,11 +1,13 @@
 <?php
 
-    echo "LOGIN TEST Social GIT branch 2nd commit";
+    echo "LOGIN TEST Social";
     
-    echo "FInal REBASE TEst Git Brannd second commit Git Branch first commit";
+    echo "FInal REBASE TEst Git Master 2nd Commit Git Branch first commit";
     
     echo "Git Branch first commit";
     
+    echo "Git Master";
+ 
     echo "Git Master 1st commit";
     
     echo "<pre>";

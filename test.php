@@ -2,7 +2,7 @@
 
     echo "LOGIN TEST Social";
     
-    echo "FInal REBASE";
+    echo "FInal REBASE TEst";
     
     echo "<pre>";
     print_r($_COOKIE);

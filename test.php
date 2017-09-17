@@ -9,7 +9,7 @@
 	echo "Git Master";
 
     if(true){
-        echo "Git Branch first commit feature/30000";   
+        echo "Git Branch first commit feature/30000 addon";   
         echo "Git Master 1st commit";  
     }
     

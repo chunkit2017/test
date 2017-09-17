@@ -1,8 +1,8 @@
 <?php
 
-    echo "LOGIN TEST REBASE";
+    echo "LOGIN TEST REBASE test";
     
-    echo "FInal REBASE";
+    echo "FInal REBASE TEst";
     
     echo "<pre>";
     print_r($_COOKIE);

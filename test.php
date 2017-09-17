@@ -2,7 +2,9 @@
 
     echo "LOGIN TEST Social";
     
-    echo "FInal REBASE TEst";
+    echo "FInal REBASE TEst Git Branch first commit";
+    
+    echo "Git Branch first commit";
     
     echo "Git Master 1st commit";
     

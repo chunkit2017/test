@@ -8,6 +8,6 @@
     print_r($_COOKIE);
     echo "</pre>";
     
-    echo "END";
+    echo "END HERE";
 
 ?>

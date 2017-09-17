@@ -1,6 +1,6 @@
 <?php
 
-    echo "LOGIN TEST REBASE";
+    echo "LOGIN TEST Social";
     
     echo "FInal REBASE";
     

@@ -12,7 +12,7 @@
 	ob_start();
 ?>
 	<html>
-		output all your html here.
+		output all your html here. TEST File
 	</html>
 <?php
 	// We're done! Save the cached content to a file
